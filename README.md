@@ -1,7 +1,7 @@
 ### Hi there 👋
-Hi, I'm Lee, a postgraduate at Dalian University of Technology, majoring in Electronic Information.
-The current focus is on the front-end, based on React ecosystem.
-I'm kinda lazy but wanna be elegant.
+-I'm Lee, a postgraduate at Dalian University of Technology, majoring in Electronic Information.
+-The current focus is on the front-end, based on React ecosystem.
+-I'm kinda lazy but wanna be elegant.
 ![LeeZ1Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=leez1q&hide_border=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leez1q&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)
 

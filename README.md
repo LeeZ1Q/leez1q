@@ -1,4 +1,6 @@
 ### Hi there 👋
+![LeeZ1Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=leez1q)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leez1q)
 
 <!--
 **LeeZ1Q/leez1q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

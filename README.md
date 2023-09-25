@@ -1,6 +1,6 @@
 ### Hi there 👋
-![LeeZ1Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=leez1q&layout=compact&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leez1q&layout=compact&show_icons=true&theme=tokyonight)
+![LeeZ1Q's GitHub stats](https://github-readme-stats.vercel.app/api?username=leez1q&hide_border=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leez1q&hide_border=true&layout=compact&show_icons=true&theme=tokyonight)
 
 
 
